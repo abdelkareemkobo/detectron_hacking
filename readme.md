@@ -1,7 +1,6 @@
 # Exploring Detectron2 
-
-Welcome to my personal repository for exploring Detectron2! Here, I will be studying the algorithms in Detectron2, reading related papers, and summarizing my findings. My approach is to learn by applying, so I will be taking notes and assigning challenges to upgrade my current level.
-
+[My vision garden](https://github.com/abdelkareemkobo/exploring_computer_vision)
+- Welcome to my personal repository for exploring Detectron2! Here, I will be studying the algorithms in Detectron2, reading related papers, and summarizing my findings. My approach is to learn by applying, so I will be taking notes and assigning challenges to upgrade my current level.
 # Technologies 
 
 The main technologies I will be using are PyTorch and PyLabel. 
@@ -17,7 +16,31 @@ Some of the features of this repository include:
 # Setup 
 
 To use this repository, you need to have Python 3.7 or higher and PyTorch 1.3 or higher installed.
+# Todo 
+### Kaggle Notebooks 
 
+[ Starter ](https://www.kaggle.com/code/maartenvandevelde/object-detection-with-detectron2-pytorch)
+
+[custom dataset](https://www.kaggle.com/code/glebbuzin/training-detectron2-on-custom-dataset)
+
+[train](https://www.kaggle.com/code/corochann/vinbigdata-detectron2-train)
+
+[segmentation](https://www.kaggle.com/code/ammarnassanalhajali/sartorius-segmentation-detectron2-training)
+
+[car-damge]( https://www.kaggle.com/code/lplenka/detectron2-car-damage-detection)
+
+- read them and try to upgrade them and make your own versions 
+### Papers 
+#### Todo : look at **Detectron2Go** for mobile devices 
+#### Todo Papers to read: 
+1. R-CNN 
+2. RetinaNet 
+3. Faster-RCNN
+4. RPN
+5. TensorMask
+6. PointRend 
+7. DensePose 
+8. ResNet and ResNeXt
 # Table of Contents 
 
 - Introduction
@@ -55,3 +78,5 @@ I will be reading and summarizing papers related to Detectron2, as well as consu
 # Other information 
 
 Feel free to contact me if you have any questions or suggestions for how to improve this repository.
+# Related Repo 
+[augmentations]() # repo related to augmentations techniques, libraries and papers 

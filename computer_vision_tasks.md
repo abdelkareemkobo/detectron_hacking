@@ -10,16 +10,7 @@ doesn't detect specific instances of objects but classifies each pixel in an ima
 # Panoptic segmentation 
 panoptics literally means "everything visible in the image". In other words,it can be viewed as combining common CV tasks such as instance segmentation and semantic segmenation. Generally, it classifies objects in an image into foreground objects(that have proper geometries) and background objects(that don't have appropriate geometries but are textures or materials)
 -> Different from semantic segmentation,panoptic segmentation doesn't group consecutive individual objects of the same class into one region 
-#Todo : look at **Detectron2Go** for mobile devices 
-#Todo Papers to read: 
-1. R-CNN 
-2. RetinaNet 
-3. Faster-RCNN
-4. RPN
-5. TensorMask
-6. PointRend 
-7. DensePose 
-8. ResNet and ResNeXt
+
 # Main Components of Detectron2 
 Input data->BackBone->Region proposal->Region of interest Heads
 ## The Input data Module
